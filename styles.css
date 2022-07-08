@@ -1,0 +1,144 @@
+/*Title section*/
+#title
+{
+  padding: 5% 7%;
+   background-color: #FBE555;
+}
+.Navigation-brand
+{
+font-size: 2.25rem;
+padding-left: 2.35%;
+
+
+}
+.NavigationBar{
+font-size: 1.25rem;
+}
+.navbar-link{
+ padding: 0 5%;
+}
+.navbar-item-list
+{
+margin: 0 5%;
+}
+.navbar-item{
+  margin-right: 10%;
+}
+/*introduction*/
+.intro-img{
+  width: 70%;
+  margin-left: 13%;
+}
+.introduction{
+text-align:justify;
+}
+.intro-heading{
+  padding: 7% 3%;
+  font-family: 'Montserrat', sans-serif;
+}
+.heading-1{
+
+  padding: 3% 3%;
+
+}
+.heading-2{
+font-family: 'Sacramento', cursive;
+margin-top: 8%;
+font-size: 2.5rem;
+
+}
+#features{
+  padding: 3% 5%;
+background-color: #FB9224;
+text-align: center;
+}
+.feature-slide{
+
+}
+.second-slide-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+.meme2-img{
+  width: 70%;
+  padding: 10%;
+}
+.meme3-img{
+  width: 80%;
+  padding: 10%;
+}
+.meme4-img{
+  width: 80%;
+  padding: 10%;
+}
+.meme5-img{
+  width: 70%;
+  padding: 10%;
+}
+.first-slide-heading{
+  padding: 3% 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+
+}
+
+.first-slide-heading-3{
+  padding: 4% 0;
+font-family: 'Sacramento', cursive;
+font-size: 2.5rem;
+}
+.slide1-img{
+  width: 90%;
+  padding-top: 10%;
+
+}
+.heading-col{
+  padding-top: 3%;
+  padding-bottom: 3%;
+
+}
+.carousel-item{
+  padding: 5% 15%;
+}
+.slide-3-heading{
+  font-size: 2.5rem;
+  padding: 5% 0;
+}
+.yt-video{
+  padding: 5% 5%;
+  width: 80%;
+  height: 250px;
+}
+#memes-section{
+  padding: 2% 12%;
+  background-color: #F45905;
+  text-align:center;
+  color:#FBE555 ;
+}
+.meme-section-heading{
+  padding: 5% 5%;
+}
+.meme-img{
+  width: 80%;
+  padding: 5%;
+}
+
+#video-section{
+  padding: 5% 10%;
+  text-align: center;
+  background-color: #2A1A5E;
+  color: #F45905;
+}
+
+#contact-us{
+  padding:  3% 10%;
+  text-align: center;
+}
+.contact-img{
+  width: 15%;
+  padding: 2% 5%;
+}
+#footer{
+  text-align: center;
+  font-size: 1rem;
+}
